@@ -103,7 +103,7 @@ The playbook was documented, then converted into this reusable skill.
 
 ## Live example
 
-**[revu-app-psi.vercel.app](https://revu-app-psi.vercel.app/)** — a waitlist landing page for a review platform startup, built entirely using this skill's process in a single session.
+**[join-revu.com](https://join-revu.com/)** — a waitlist landing page for a review platform startup, built entirely using this skill's process in a single session.
 
 The page went through the full 7-step cycle: competitive research (Yelp, Beli, Google Maps, YouTube), Schwartz Stage 4 copy for Problem-Aware reviewers, Hormozi value equation applied to the offer, competitor visual research that caught a wrong design direction (dark developer theme → warm food-platform theme after researching what Yelp, Beli, and Google Maps actually look like), and an in-character self-critique as a 24-year-old Google Maps power reviewer that led to adding the comparison table, removing audience tabs that slowed conversion, and specifying "$5 per review" instead of a vague "guaranteed minimum."
 
